@@ -2,8 +2,11 @@
   Portfolio Website - v1.0<br/>
   <a href="http://rajatzz.github.io" target="_blank">rajatzz.github.io</a>
 </h1>
+
+<br/>
+
 <div align="center">
-  <img alt="Demo" src="" />
+  <img alt="Laptop Mockup Demo" src="./Images/mockup.svg" />
 </div>
 
 <br/>
