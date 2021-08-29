@@ -14,9 +14,12 @@
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
 </center>
 
-## Built With
+## Introduction
 
+Welcome to the project repository of my website!
 My personal portfolio website, <a href="http://rajatzz.github.io/" target="_blank">rajatz.github.io</a> showcasing me.<br/>
+
+Works are still being done actively in the background to make it better. Should you notice some minor discrepancies like minor bugs and issues, please feel free to create an Issue.
 
 # Files Included
 
