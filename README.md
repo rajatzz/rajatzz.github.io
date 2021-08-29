@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+<h2 align="center">
+  Portfolio Website - v1.0<br/>
+  <a href="http://rajatzz.github.io" target="_blank">rajatzz.github.io</a>
+</h2>
+<div align="center">
+  <img alt="Demo" src="" />
+</div>
 
-You can use the [editor on GitHub](https://github.com/rajatzz/rajatzz.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<br/>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<center>
 
-### Markdown
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
+</center>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Built With
 
-```markdown
-Syntax highlighted code block
+My personal portfolio website, <a href="http://rajatzz.github.io/" target="_blank">rajatz.github.io</a> showcasing me.<br/>
 
-# Header 1
-## Header 2
-### Header 3
+# Files Included
 
-- Bulleted
-- List
+* index.html
+* style.css 
+* script.js
+* images folder
 
-1. Numbered
-2. List
+## Features
 
-**Bold** and _Italic_ and `Code` text
+**📃 Single-Page Layout**
 
-[Link](url) and ![Image](src)
-```
+**📱 Fully Responsive**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rajatzz/rajatzz.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Resources
+ * <https://www.youtube.com/>
+ * <https://www.w3schools.com/>
+ * <https://css-tricks.com/>
